@@ -1,0 +1,16 @@
+{
+  "name": "javascript-challenge",
+  "version": "0.0.0",
+  "authors": [
+    "Kim Pettersen <kim@brightbytes.net>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,29 @@
+body {
+  font-size: 25px;
+}
+
+.message-board {
+  background: #FBFEE2;
+  width: 750px;
+  height: 500px;
+  overflow-y: scroll
+}
+
+#message-form input{
+  width: 750px;
+  height: 30px;
+}
+
+.overlay{
+  height: 100vh;
+  width: 100vw;
+  background: black;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.overlay .content {
+  width: 200px;
+  margin: 20% auto;
+}
